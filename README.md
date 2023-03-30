@@ -60,6 +60,12 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
+SERVER OUTPUT:
+![server output](https://user-images.githubusercontent.com/113975318/228891956-7ed3beb5-3438-4d74-8a82-73389eba2dc9.png)
+
+
+CLIENT OUTPUT:
+![client output](https://user-images.githubusercontent.com/113975318/228892120-2c4b5b5f-620a-4da5-b525-d9f4b9f06a18.png)
 
 
 ## RESULT:
